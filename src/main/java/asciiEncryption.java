@@ -7,7 +7,7 @@ public class asciiEncryption {
 	public static void main(String[] args) {
 
 		Scanner getInput = new Scanner(System.in);
-		System.out.println("Add a string of any value you ant.");
+		System.out.println("Add a string of any value you want.");
 		String toEncrypt = getInput.nextLine();
 	
 		
