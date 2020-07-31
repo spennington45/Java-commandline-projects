@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 public class CheeseTopping implements Topping {
 
-	private String name = "Cheese";
+	private String name = "Cheese\t";
 	private BigDecimal price = new BigDecimal(1.50);
 	
 	public BigDecimal getPrice() {
